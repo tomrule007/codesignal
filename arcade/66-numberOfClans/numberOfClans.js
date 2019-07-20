@@ -1,0 +1,3 @@
+function numberOfClans(divisors, k) {
+
+}
